@@ -1,4 +1,10 @@
-# IBM_Data_Analyst_Capston_Project
+<p align="center"><img src="https://github.com/utkarshhpatil/IBM_Data_Analyst_Capstone_Project/assets/132151856/f51a5a3a-8755-4efe-a6df-bd35023d4915" width=800 height=80>
+
+<p align="center">
+<img src="https://github.com/utkarshhpatil/IBM_Data_Analyst_Capstone_Project/assets/132151856/bcb85f22-8027-4fdf-92c2-132a713c1388" width=700 height=400>
+
+
+# IBM_Data_Analyst_Capstone_Project
 This project is a capstone project for the IBM Data Analyst Professional Certificate. In this project, I applied various data analysis skills and techniques to a real-world dataset. I gathered data from multiple sources, performed exploratory data analysis, data wrangling and preparation, statistical analysis and mining the data, created charts and plots to visualize data, and built an interactive dashboard using IBM Cognos Analytics.
 
 The project dataset is related to emerging skills in the IT industry. I analyzed the data to identify the most in-demand skills, the skills that are growing the fastest, and the skills that are most likely to be in demand in the future. I also created a dashboard that visualizes the data and makes it easy to understand the trends.
