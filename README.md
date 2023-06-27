@@ -1,5 +1,9 @@
 # IBM_Data_Analyst_Capston_Project
- I applied diverse data analysis skills to a real-world dataset in this project. It involved data gathering, exploratory analysis, data wrangling, statistical analysis, data mining, visualization using charts and plots, and creating an interactive dashboard with IBM Cognos Analytics.
+This project is a capstone project for the IBM Data Analyst Professional Certificate. In this project, I applied various data analysis skills and techniques to a real-world dataset. I gathered data from multiple sources, performed exploratory data analysis, data wrangling and preparation, statistical analysis and mining the data, created charts and plots to visualize data, and built an interactive dashboard using IBM Cognos Analytics.
+
+The project dataset is related to emerging skills in the IT industry. I analyzed the data to identify the most in-demand skills, the skills that are growing the fastest, and the skills that are most likely to be in demand in the future. I also created a dashboard that visualizes the data and makes it easy to understand the trends.
+
+This project was a great opportunity to learn and apply data analysis skills. I am confident that the skills and knowledge that I gained from this project will be valuable in my future career as a data analyst
 
 
 <p align="center">
@@ -7,7 +11,14 @@
 
 
 ## About this Project
-In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
+
+The IBM Data Analyst Capstone Project is a comprehensive project-based course offered by IBM as part of their Data Analyst Professional Certificate program. This capstone project provides learners with the opportunity to apply the skills and knowledge gained throughout the program to real-world data analysis tasks.
+
+The project is designed to simulate a real-world data analysis scenario, where learners are tasked with solving a specific business problem using data analysis techniques and tools. It involves working with a large dataset, applying data cleaning and preprocessing techniques, performing exploratory data analysis, and developing data-driven insights and recommendations.
+
+Throughout the project, learners work with popular data analysis tools such as Python, Jupyter Notebook, and various data analysis libraries. They gain hands-on experience in manipulating and analyzing data, visualizing data using charts and graphs, and communicating their findings effectively through data-driven storytelling.
+
+By completing the IBM Data Analyst Capstone Project, learners demonstrate their proficiency in data analysis and their ability to tackle complex data problems in a real-world context. This project serves as a valuable addition to their portfolio, showcasing their practical skills and expertise to potential employers in the field of data analysis and beyond.
 
 ## Modules
 
