@@ -1,0 +1,8 @@
+## Using APIs in the IBM Data Analyst Capstone Project
+
+In the IBM Data Analyst Capstone Project, I used APIs to collect data & stored the collected data into an excel spreadsheet. 
+APIs (Application Programming Interfaces) are a way for computers to talk to each other. 
+They allow you to access data from websites and other applications programmatically.
+
+The dataset provided by IBM comes from the following source: https://www.kaggle.com/promptcloud/jobs-on-naukricom under the under a Public Domain license.
+The original dataset is a csv. IBM have converted the csv to json as per the requirement of the lab.
