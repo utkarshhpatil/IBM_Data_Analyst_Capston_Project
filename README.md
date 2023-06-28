@@ -26,34 +26,34 @@ Throughout the project, learners work with popular data analysis tools such as P
 
 By completing the IBM Data Analyst Capstone Project, learners demonstrate their proficiency in data analysis and their ability to tackle complex data problems in a real-world context. This project serves as a valuable addition to their portfolio, showcasing their practical skills and expertise to potential employers in the field of data analysis and beyond.
 
-## Modules
+## Stages
 
-### **Module 1:** Data Collection
+### **Stage 1:** Data Collection
 - Collecting Data Using APIs
 - Collecting Data Using Webscraping
 - Exploring Data
 
-### **Module 2:** Data Wrangling
+### **Stage 2:** Data Wrangling
 - Finding Missing Values
 - Determine Missing Values
 - Finding Duplicates
 - Removing Duplicates
 - Normalizing Data
 
-### **Module 3:** Exploratory Data Analysis
+### **Stage 3:** Exploratory Data Analysis
 - Distribution
 - Outliers
 - Correlation
 
-### **Module 4:** Data Visualization
+### **Stage 4:** Data Visualization
 - Visualizing Distribution of Data
 - Relationship
 - Composition
 - Comparison
 
-### **Module 5:** Dashboard
+### **Stage 5:** Dashboard
 - Creation
 - Dashboards
 
-### **Module 6:** Presentation of Findings
+### **Stage 6:** Presentation of Findings
 - Final Presentation
